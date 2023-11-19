@@ -3,13 +3,17 @@
     "name": "Cataclysm",
     "author": "Ggb0y",
     "creators": [],
-    "verifier": "Riot",
-    "verification": "https://www.youtube.com/watch?v=dYt5fp5VGVs",
+    "verifier": "CattoStyles",
+    "verification": "https://www.youtube.com/watch?v=OOAE762YiMI&t",
     "percentToQualify": "100",
     "password": "666777",
     "records": [
         {
-            "user": "Haristic",
+            "user": "CattoStyles",
+            "percent": 100,
+            "hz": 360,
+            "link": "https://www.youtube.com/watch?v=OOAE762YiMI&t",
+             "user": "Haristic",
             "percent": 100,
             "hz": 360,
             "link": "https://www.youtube.com/watch?v=ON10R87kKbs"
