@@ -6,22 +6,22 @@
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": "https://www.youtube.com/channel/UCW1CH3fRh0h03FvkCpCfJdA"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": "https://www.youtube.com/channel/UCW1CH3fRh0h03FvkCpCfJdA"
     },
     {
         "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "None",
+        "link": "https://www.youtube.com/channel/UCW1CH3fRh0h03FvkCpCfJdA"
     },
     {
         "role": "dev",
-        "name": "List Coder",
+        "name": "None",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
